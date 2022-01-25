@@ -1,0 +1,50 @@
+body{
+    background-image: url("https://i.postimg.cc/2yBYPrCZ/floresta8.jpg");
+    background-repeat:repeat;
+    background-attachment: fixed;
+    margin: 0px;
+} 
+#p1{
+    background-color: black;
+    opacity: 0.75;
+    margin: 0px;
+    color: white;
+    font-size: 20pt;
+    padding: 10pt;
+    text-align: center;
+    font-weight: bold;
+    border: solid;
+    border-width: 4px;
+    border-color: red;
+    font-family: sans-serif;
+}      
+a{
+    color: rgb(45, 255, 45);
+    text-decoration: none;
+}
+a:hover{
+    color: rgb(255, 185, 55);
+}
+#paragrafos{
+    color: white;
+    margin: 0px;
+    font-size: 20pt;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+#p9{
+    background-color: black;
+    opacity: 0.75;
+    background-size: 100% 30%;
+    margin: 0px;
+    padding: 0px;
+    color: white;
+    font-size: 20pt;
+    padding: 10pt;
+    text-align: center;
+    font-weight: bold;
+    border: solid;
+    border-width: 10px;
+    border-color: red;
+    font-family: sans-serif;
+}

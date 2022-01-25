@@ -1,0 +1,41 @@
+body{
+    background-color: black;
+}
+
+p{
+font-size:10pt;
+}
+
+#p1, #p2{
+    color: white;
+    font-family: sans-serif;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(45, 255, 45);
+}
+
+a:hover{
+    color: rgb(255, 185, 55);
+}
+
+#p2{
+    text-align: center;
+    font-style: italic;
+}
+
+#p3{
+    background-color:white;
+    text-align: right;
+}
+
+#por{
+    background-color: blue;
+    color: white;
+}
+
+#direita{
+    background-color: red;
+    color: white;       
+}
